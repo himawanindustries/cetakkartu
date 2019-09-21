@@ -1,0 +1,25 @@
+C:\Users\IT02\Documents\Visual Studio 2008\Projects\CetakBaru\CetakBaru\bin\Debug\CetakBaru.exe.config
+C:\Users\IT02\Documents\Visual Studio 2008\Projects\CetakBaru\CetakBaru\bin\Debug\CetakBaru.exe
+C:\Users\IT02\Documents\Visual Studio 2008\Projects\CetakBaru\CetakBaru\bin\Debug\CetakBaru.pdb
+C:\Users\IT02\Documents\Visual Studio 2008\Projects\CetakBaru\CetakBaru\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\IT02\Documents\Visual Studio 2008\Projects\CetakBaru\CetakBaru\obj\Debug\CetakBaru.Form1.resources
+C:\Users\IT02\Documents\Visual Studio 2008\Projects\CetakBaru\CetakBaru\obj\Debug\CetakBaru.Form2.resources
+C:\Users\IT02\Documents\Visual Studio 2008\Projects\CetakBaru\CetakBaru\obj\Debug\CetakBaru.Properties.Resources.resources
+C:\Users\IT02\Documents\Visual Studio 2008\Projects\CetakBaru\CetakBaru\obj\Debug\CetakBaru.csproj.GenerateResource.Cache
+C:\Users\IT02\Documents\Visual Studio 2008\Projects\CetakBaru\CetakBaru\obj\Debug\CetakBaru.exe
+C:\Users\IT02\Documents\Visual Studio 2008\Projects\CetakBaru\CetakBaru\obj\Debug\CetakBaru.pdb
+D:\Project\Solution\csharp\CetakBaru\CetakBaru\bin\Debug\CetakBaru.exe.config
+D:\Project\Solution\csharp\CetakBaru\CetakBaru\bin\Debug\CetakBaru.exe.manifest
+D:\Project\Solution\csharp\CetakBaru\CetakBaru\bin\Debug\CetakBaru.application
+D:\Project\Solution\csharp\CetakBaru\CetakBaru\bin\Debug\CetakBaru.exe
+D:\Project\Solution\csharp\CetakBaru\CetakBaru\bin\Debug\CetakBaru.pdb
+D:\Project\Solution\csharp\CetakBaru\CetakBaru\obj\Debug\CetakBaru.Form1.resources
+D:\Project\Solution\csharp\CetakBaru\CetakBaru\obj\Debug\CetakBaru.Form2.resources
+D:\Project\Solution\csharp\CetakBaru\CetakBaru\obj\Debug\CetakBaru.FormKaryawan.resources
+D:\Project\Solution\csharp\CetakBaru\CetakBaru\obj\Debug\CetakBaru.Form4.resources
+D:\Project\Solution\csharp\CetakBaru\CetakBaru\obj\Debug\CetakBaru.Properties.Resources.resources
+D:\Project\Solution\csharp\CetakBaru\CetakBaru\obj\Debug\CetakBaru.csproj.GenerateResource.Cache
+D:\Project\Solution\csharp\CetakBaru\CetakBaru\obj\Debug\CetakBaru.exe.manifest
+D:\Project\Solution\csharp\CetakBaru\CetakBaru\obj\Debug\CetakBaru.application
+D:\Project\Solution\csharp\CetakBaru\CetakBaru\obj\Debug\CetakBaru.exe
+D:\Project\Solution\csharp\CetakBaru\CetakBaru\obj\Debug\CetakBaru.pdb

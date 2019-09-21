@@ -1,0 +1,80 @@
+C:\Users\IT02\Documents\Visual Studio 2008\Projects\CetakBaru\CetakBaru\bin\x86\Debug\CetakBaru.exe.config
+C:\Users\IT02\Documents\Visual Studio 2008\Projects\CetakBaru\CetakBaru\bin\x86\Debug\CetakBaru.exe
+C:\Users\IT02\Documents\Visual Studio 2008\Projects\CetakBaru\CetakBaru\bin\x86\Debug\CetakBaru.pdb
+C:\Users\IT02\Documents\Visual Studio 2008\Projects\CetakBaru\CetakBaru\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\IT02\Documents\Visual Studio 2008\Projects\CetakBaru\CetakBaru\obj\x86\Debug\CetakBaru.Form1.resources
+C:\Users\IT02\Documents\Visual Studio 2008\Projects\CetakBaru\CetakBaru\obj\x86\Debug\CetakBaru.Form2.resources
+C:\Users\IT02\Documents\Visual Studio 2008\Projects\CetakBaru\CetakBaru\obj\x86\Debug\CetakBaru.Properties.Resources.resources
+C:\Users\IT02\Documents\Visual Studio 2008\Projects\CetakBaru\CetakBaru\obj\x86\Debug\CetakBaru.csproj.GenerateResource.Cache
+C:\Users\IT02\Documents\Visual Studio 2008\Projects\CetakBaru\CetakBaru\obj\x86\Debug\CetakBaru.exe
+C:\Users\IT02\Documents\Visual Studio 2008\Projects\CetakBaru\CetakBaru\obj\x86\Debug\CetakBaru.pdb
+E:\Projects\CetakBaru\CetakBaru\bin\x86\Debug\CetakBaru.exe.config
+E:\Projects\CetakBaru\CetakBaru\bin\x86\Debug\CetakBaru.exe
+E:\Projects\CetakBaru\CetakBaru\bin\x86\Debug\CetakBaru.pdb
+E:\Projects\CetakBaru\CetakBaru\obj\x86\Debug\CetakBaru.Form1.resources
+E:\Projects\CetakBaru\CetakBaru\obj\x86\Debug\CetakBaru.Form2.resources
+E:\Projects\CetakBaru\CetakBaru\obj\x86\Debug\CetakBaru.Properties.Resources.resources
+E:\Projects\CetakBaru\CetakBaru\obj\x86\Debug\CetakBaru.csproj.GenerateResource.Cache
+E:\Projects\CetakBaru\CetakBaru\obj\x86\Debug\CetakBaru.exe
+E:\Projects\CetakBaru\CetakBaru\obj\x86\Debug\CetakBaru.pdb
+E:\Projects\CetakBaru\CetakBaru\obj\x86\Debug\CetakBaru.csprojResolveAssemblyReference.cache
+F:\Project\Solution\csharp\CetakBaru\CetakBaru\bin\x86\Debug\CetakBaru.exe.config
+F:\Project\Solution\csharp\CetakBaru\CetakBaru\bin\x86\Debug\CetakBaru.exe.manifest
+F:\Project\Solution\csharp\CetakBaru\CetakBaru\bin\x86\Debug\CetakBaru.application
+F:\Project\Solution\csharp\CetakBaru\CetakBaru\bin\x86\Debug\CetakBaru.exe
+F:\Project\Solution\csharp\CetakBaru\CetakBaru\bin\x86\Debug\CetakBaru.pdb
+F:\Project\Solution\csharp\CetakBaru\CetakBaru\obj\x86\Debug\CetakBaru.Form1.resources
+F:\Project\Solution\csharp\CetakBaru\CetakBaru\obj\x86\Debug\CetakBaru.Form2.resources
+F:\Project\Solution\csharp\CetakBaru\CetakBaru\obj\x86\Debug\CetakBaru.Properties.Resources.resources
+F:\Project\Solution\csharp\CetakBaru\CetakBaru\obj\x86\Debug\CetakBaru.csproj.GenerateResource.Cache
+F:\Project\Solution\csharp\CetakBaru\CetakBaru\obj\x86\Debug\CetakBaru.exe.manifest
+F:\Project\Solution\csharp\CetakBaru\CetakBaru\obj\x86\Debug\CetakBaru.application
+F:\Project\Solution\csharp\CetakBaru\CetakBaru\obj\x86\Debug\CetakBaru.exe
+F:\Project\Solution\csharp\CetakBaru\CetakBaru\obj\x86\Debug\CetakBaru.pdb
+D:\Project\Solution\csharp\CetakBaru\CetakBaru\bin\x86\Debug\CetakBaru.exe.config
+D:\Project\Solution\csharp\CetakBaru\CetakBaru\bin\x86\Debug\CetakBaru.exe.manifest
+D:\Project\Solution\csharp\CetakBaru\CetakBaru\bin\x86\Debug\CetakBaru.application
+D:\Project\Solution\csharp\CetakBaru\CetakBaru\bin\x86\Debug\CetakBaru.exe
+D:\Project\Solution\csharp\CetakBaru\CetakBaru\bin\x86\Debug\CetakBaru.pdb
+D:\Project\Solution\csharp\CetakBaru\CetakBaru\obj\x86\Debug\CetakBaru.Form1.resources
+D:\Project\Solution\csharp\CetakBaru\CetakBaru\obj\x86\Debug\CetakBaru.Form2.resources
+D:\Project\Solution\csharp\CetakBaru\CetakBaru\obj\x86\Debug\CetakBaru.FormKaryawan.resources
+D:\Project\Solution\csharp\CetakBaru\CetakBaru\obj\x86\Debug\CetakBaru.Form4.resources
+D:\Project\Solution\csharp\CetakBaru\CetakBaru\obj\x86\Debug\CetakBaru.Properties.Resources.resources
+D:\Project\Solution\csharp\CetakBaru\CetakBaru\obj\x86\Debug\CetakBaru.csproj.GenerateResource.Cache
+D:\Project\Solution\csharp\CetakBaru\CetakBaru\obj\x86\Debug\CetakBaru.exe.manifest
+D:\Project\Solution\csharp\CetakBaru\CetakBaru\obj\x86\Debug\CetakBaru.application
+D:\Project\Solution\csharp\CetakBaru\CetakBaru\obj\x86\Debug\CetakBaru.exe
+D:\Project\Solution\csharp\CetakBaru\CetakBaru\obj\x86\Debug\CetakBaru.pdb
+E:\Document\Mycode\CetakBaru\CetakBaru\bin\x86\Debug\CetakBaru.exe.config
+E:\Document\Mycode\CetakBaru\CetakBaru\bin\x86\Debug\CetakBaru.exe.manifest
+E:\Document\Mycode\CetakBaru\CetakBaru\bin\x86\Debug\CetakBaru.application
+E:\Document\Mycode\CetakBaru\CetakBaru\bin\x86\Debug\CetakBaru.exe
+E:\Document\Mycode\CetakBaru\CetakBaru\bin\x86\Debug\CetakBaru.pdb
+E:\Document\Mycode\CetakBaru\CetakBaru\obj\x86\Debug\CetakBaru.csprojResolveAssemblyReference.cache
+E:\Document\Mycode\CetakBaru\CetakBaru\obj\x86\Debug\CetakBaru.Form1.resources
+E:\Document\Mycode\CetakBaru\CetakBaru\obj\x86\Debug\CetakBaru.Form2.resources
+E:\Document\Mycode\CetakBaru\CetakBaru\obj\x86\Debug\CetakBaru.FormKaryawan.resources
+E:\Document\Mycode\CetakBaru\CetakBaru\obj\x86\Debug\CetakBaru.Form4.resources
+E:\Document\Mycode\CetakBaru\CetakBaru\obj\x86\Debug\CetakBaru.Properties.Resources.resources
+E:\Document\Mycode\CetakBaru\CetakBaru\obj\x86\Debug\CetakBaru.csproj.GenerateResource.Cache
+E:\Document\Mycode\CetakBaru\CetakBaru\obj\x86\Debug\CetakBaru.exe.manifest
+E:\Document\Mycode\CetakBaru\CetakBaru\obj\x86\Debug\CetakBaru.application
+E:\Document\Mycode\CetakBaru\CetakBaru\obj\x86\Debug\CetakBaru.exe
+E:\Document\Mycode\CetakBaru\CetakBaru\obj\x86\Debug\CetakBaru.pdb
+E:\Document\Visual Studio 2010\Projects\CetakBaru\CetakBaru\bin\x86\Debug\CetakBaru.exe.config
+E:\Document\Visual Studio 2010\Projects\CetakBaru\CetakBaru\bin\x86\Debug\CetakBaru.exe.manifest
+E:\Document\Visual Studio 2010\Projects\CetakBaru\CetakBaru\bin\x86\Debug\CetakBaru.application
+E:\Document\Visual Studio 2010\Projects\CetakBaru\CetakBaru\bin\x86\Debug\CetakBaru.exe
+E:\Document\Visual Studio 2010\Projects\CetakBaru\CetakBaru\bin\x86\Debug\CetakBaru.pdb
+E:\Document\Visual Studio 2010\Projects\CetakBaru\CetakBaru\obj\x86\Debug\CetakBaru.Form1.resources
+E:\Document\Visual Studio 2010\Projects\CetakBaru\CetakBaru\obj\x86\Debug\CetakBaru.Form2.resources
+E:\Document\Visual Studio 2010\Projects\CetakBaru\CetakBaru\obj\x86\Debug\CetakBaru.FormKaryawan.resources
+E:\Document\Visual Studio 2010\Projects\CetakBaru\CetakBaru\obj\x86\Debug\CetakBaru.Form4.resources
+E:\Document\Visual Studio 2010\Projects\CetakBaru\CetakBaru\obj\x86\Debug\CetakBaru.Properties.Resources.resources
+E:\Document\Visual Studio 2010\Projects\CetakBaru\CetakBaru\obj\x86\Debug\CetakBaru.csproj.GenerateResource.Cache
+E:\Document\Visual Studio 2010\Projects\CetakBaru\CetakBaru\obj\x86\Debug\CetakBaru.exe.manifest
+E:\Document\Visual Studio 2010\Projects\CetakBaru\CetakBaru\obj\x86\Debug\CetakBaru.application
+E:\Document\Visual Studio 2010\Projects\CetakBaru\CetakBaru\obj\x86\Debug\CetakBaru.exe
+E:\Document\Visual Studio 2010\Projects\CetakBaru\CetakBaru\obj\x86\Debug\CetakBaru.pdb
+E:\Document\Visual Studio 2010\Projects\CetakBaru\CetakBaru\obj\x86\Debug\CetakBaru.csprojResolveAssemblyReference.cache
