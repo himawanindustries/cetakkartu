@@ -17,6 +17,7 @@ namespace CetakBaru
     {     
         DataSet1 ds = new DataSet1();
         String FotoPath;
+        string BgKartu;
 
         public FormKaryawan()
         {
@@ -43,58 +44,32 @@ namespace CetakBaru
             String Nama=textBox5.Text;
             String NIP=textBox6.Text;
             String Title2 = textBox1.Text;
-            if (comboBox1.Text=="SECURITY")
+            KartuKaryawan ObjKartuKaryawan = new KartuKaryawan();
+            try
             {
-                KDSecurity ObjKartuSecurity = new KDSecurity();
-                try
-                {
-                    DataRow dr = ds.Tables["karyawan"].NewRow();
-                    dr["Title"] = Title;
-                    dr["Nama"] = Nama;
-                    dr["NIP"] = NIP;
-                    dr["Foto"] = FotoPath;
-                    dr["Title2"] = Title2;
-                    ds.Tables["karyawan"].Rows.Add(dr);
-                }
-                catch (Exception)
-                {
-
-                    throw;
-                }
-                crystalReportViewer1.Refresh();
-                ObjKartuSecurity.Load();
-                ObjKartuSecurity.SetDataSource(ds);
-                crystalReportViewer1.ReportSource = ObjKartuSecurity;
-                button7.Enabled = true;
+                DataRow dr = ds.Tables["karyawan"].NewRow();
+                dr["Title"] = Title;
+                dr["Nama"] = Nama;
+                dr["NIP"] = NIP;
+                dr["Foto"] = FotoPath;
+                dr["BgKartu"] = BgKartu;
+                ds.Tables["karyawan"].Rows.Add(dr);
             }
-            else
+            catch (Exception)
             {
-                KartuKaryawan ObjKartuKaryawan = new KartuKaryawan();
-                try
-                {
-                    DataRow dr = ds.Tables["karyawan"].NewRow();
-                    dr["Title"] = Title;
-                    dr["Nama"] = Nama;
-                    dr["NIP"] = NIP;
-                    dr["Foto"] = FotoPath;
-                    ds.Tables["karyawan"].Rows.Add(dr);
-                }
-                catch (Exception)
-                {
 
-                    throw;
-                }
-                crystalReportViewer1.Refresh();
-                ObjKartuKaryawan.Load();
-                ObjKartuKaryawan.SetDataSource(ds);
-                crystalReportViewer1.ReportSource = ObjKartuKaryawan;
-                button7.Enabled = true;
+                throw;
             }
-            
+            crystalReportViewer1.Refresh();
+            ObjKartuKaryawan.Load();
+            ObjKartuKaryawan.SetDataSource(ds);
+            crystalReportViewer1.ReportSource = ObjKartuKaryawan;
+            button7.Enabled = true;
         }
-
+            
         private void button1_Click(object sender, EventArgs e)
         {
+            openFileDialog1.FileName = "";
             openFileDialog1.DefaultExt = ".jpg";
             openFileDialog1.Filter = "Image File (*.jpg)|*.jpg|All files (*.*)|*.*";
             DialogResult result = openFileDialog1.ShowDialog();
@@ -114,52 +89,25 @@ namespace CetakBaru
             String Nama = textBox5.Text;
             String NIP = textBox6.Text;
             String Title2 = textBox1.Text;
-            if (comboBox1.Text=="SECURITY")
+            KartuKaryawanBelakang ObjKartuKaryawanBelakang = new KartuKaryawanBelakang();
+            try
             {
-                KBSecurity ObjKartuBSecurity = new KBSecurity();
-                try
-                {
-                    DataRow dr = ds.Tables["karyawan"].NewRow();
-                    dr["Title"] = Title;
-                    dr["Nama"] = Nama;
-                    dr["NIP"] = NIP;
-                    dr["Foto"] = FotoPath;
-                    dr["Title2"] = Title2;
-                    ds.Tables["karyawan"].Rows.Add(dr);
-                }
-                catch (Exception)
-                {
-
-                    throw;
-                }
-                crystalReportViewer1.Refresh();
-                ObjKartuBSecurity.Load();
-                ObjKartuBSecurity.SetDataSource(ds);
-                crystalReportViewer1.ReportSource = ObjKartuBSecurity;
-
+                DataRow dr = ds.Tables["karyawan"].NewRow();
+                dr["Title"] = Title;
+                dr["Nama"] = Nama;
+                dr["NIP"] = NIP;
+                dr["Foto"] = FotoPath;
+                ds.Tables["karyawan"].Rows.Add(dr);
             }
-            else
+            catch (Exception)
             {
-                KartuKaryawanBelakang ObjKartuKaryawanBelakang = new KartuKaryawanBelakang();
-                try
-                {
-                    DataRow dr = ds.Tables["karyawan"].NewRow();
-                    dr["Title"] = Title;
-                    dr["Nama"] = Nama;
-                    dr["NIP"] = NIP;
-                    dr["Foto"] = FotoPath;
-                    ds.Tables["karyawan"].Rows.Add(dr);
-                }
-                catch (Exception)
-                {
 
-                    throw;
-                }
-                crystalReportViewer1.Refresh();
-                ObjKartuKaryawanBelakang.Load();
-                ObjKartuKaryawanBelakang.SetDataSource(ds);
-                crystalReportViewer1.ReportSource = ObjKartuKaryawanBelakang;
+                throw;
             }
+            crystalReportViewer1.Refresh();
+            ObjKartuKaryawanBelakang.Load();
+            ObjKartuKaryawanBelakang.SetDataSource(ds);
+            crystalReportViewer1.ReportSource = ObjKartuKaryawanBelakang;
         }
 
         private void dataGridView1_CellContentClick(object sender, DataGridViewCellEventArgs e)
@@ -179,6 +127,33 @@ namespace CetakBaru
                 textBox1.Enabled = true;    
             }
             
+        }
+
+        private void label4_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void checkBox1_CheckedChanged(object sender, EventArgs e)
+        {
+            if (checkBox1.Checked==true)
+            {
+                textBox1.Enabled = true;
+            }
+        }
+
+        private void gambarLatarKartuToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            openFileDialog2.FileName = "";
+            openFileDialog2.FileName = "";
+            openFileDialog2.DefaultExt = ".jpg";
+            openFileDialog2.Filter = "Image File (*.jpg)|*.jpg|All files (*.*)|*.*";
+            DialogResult result = openFileDialog2.ShowDialog();
+            if (result == DialogResult.OK)
+            {
+                BgKartu = openFileDialog2.FileName;
+                MessageBox.Show("Later terpilih, pastikan ukuran gambar CR-80");
+            }           
         }
     }
 }

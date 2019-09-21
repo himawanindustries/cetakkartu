@@ -15,8 +15,7 @@ namespace CetakBaru
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new Form1());
-            DBCon dbcon = new DBCon();
+            Application.Run(new FormKaryawan());
         }
     }
 }
