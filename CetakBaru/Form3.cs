@@ -155,5 +155,10 @@ namespace CetakBaru
                 MessageBox.Show("Later terpilih, pastikan ukuran gambar CR-80");
             }           
         }
+
+        private void crystalReportViewer1_Load(object sender, EventArgs e)
+        {
+
+        }
     }
 }

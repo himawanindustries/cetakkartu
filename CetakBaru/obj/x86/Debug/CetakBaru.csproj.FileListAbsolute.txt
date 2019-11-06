@@ -67,7 +67,6 @@ E:\Document\Visual Studio 2010\Projects\CetakBaru\CetakBaru\bin\x86\Debug\CetakB
 E:\Document\Visual Studio 2010\Projects\CetakBaru\CetakBaru\bin\x86\Debug\CetakBaru.application
 E:\Document\Visual Studio 2010\Projects\CetakBaru\CetakBaru\bin\x86\Debug\CetakBaru.exe
 E:\Document\Visual Studio 2010\Projects\CetakBaru\CetakBaru\bin\x86\Debug\CetakBaru.pdb
-E:\Document\Visual Studio 2010\Projects\CetakBaru\CetakBaru\obj\x86\Debug\CetakBaru.csprojResolveAssemblyReference.cache
 E:\Document\Visual Studio 2010\Projects\CetakBaru\CetakBaru\obj\x86\Debug\CetakBaru.FormKaryawan.resources
 E:\Document\Visual Studio 2010\Projects\CetakBaru\CetakBaru\obj\x86\Debug\CetakBaru.Properties.Resources.resources
 E:\Document\Visual Studio 2010\Projects\CetakBaru\CetakBaru\obj\x86\Debug\CetakBaru.csproj.GenerateResource.Cache

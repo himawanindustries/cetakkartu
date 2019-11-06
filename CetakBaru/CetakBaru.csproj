@@ -144,18 +144,6 @@
       <DependentUpon>KartuKaryawanBelakang.rpt</DependentUpon>
       <SubType>Component</SubType>
     </Compile>
-    <Compile Include="KBSecurity.cs">
-      <AutoGen>True</AutoGen>
-      <DesignTime>True</DesignTime>
-      <DependentUpon>KBSecurity.rpt</DependentUpon>
-      <SubType>Component</SubType>
-    </Compile>
-    <Compile Include="KDSecurity.cs">
-      <AutoGen>True</AutoGen>
-      <DesignTime>True</DesignTime>
-      <DependentUpon>KDSecurity.rpt</DependentUpon>
-      <SubType>Component</SubType>
-    </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <EmbeddedResource Include="Form3.resx">
@@ -168,14 +156,6 @@
     <EmbeddedResource Include="KartuKaryawanBelakang.rpt">
       <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
       <LastGenOutput>KartuKaryawanBelakang.cs</LastGenOutput>
-    </EmbeddedResource>
-    <EmbeddedResource Include="KBSecurity.rpt">
-      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
-      <LastGenOutput>KBSecurity.cs</LastGenOutput>
-    </EmbeddedResource>
-    <EmbeddedResource Include="KDSecurity.rpt">
-      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
-      <LastGenOutput>KDSecurity.cs</LastGenOutput>
     </EmbeddedResource>
     <EmbeddedResource Include="Properties\Resources.resx">
       <Generator>ResXFileCodeGenerator</Generator>
