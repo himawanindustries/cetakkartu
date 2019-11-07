@@ -143,14 +143,14 @@
     </dependentAssembly>
   </dependency>
   <dependency>
-    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="CetakBaru.exe" size="11642368">
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="CetakBaru.exe" size="2429952">
       <assemblyIdentity name="CetakBaru" version="1.0.0.0" language="neutral" processorArchitecture="x86" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
-        <dsig:DigestValue>yc4DU37oufANfp5Ch32Li1OA7zs=</dsig:DigestValue>
+        <dsig:DigestValue>vcAOAF6GGsqZtSaQiZJ7nr0J36g=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
